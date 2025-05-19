@@ -2,6 +2,14 @@
 
 ## My name is Otávio Voltarelli
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otaviovoltarelli)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otavio.voltarelli@hotmail.com)
+
+
+- 🎥 I share my journey in the programming field on my [YouTube Channel](https://www.youtube.com/@OdvDev)
+- 🎓 Graduated in systems analysis and development
+- 📚 Always looking for evolution
+
 ---
 
 ### 🔧 Technologies
@@ -17,17 +25,10 @@
 
 <div align="center">
 
-![OtavioVoltarelli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OtavioVoltarelli&show_icons=true&theme=transparent&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioVoltarelli&layout=compact&theme=transparent)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioVoltarelli&layout=compact&theme=transparent)
 
 </div>
 
 ---
 
-### 🌐 Contact
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otaviovoltarelli)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otavio.voltarelli@hotmail.com)
-
----
