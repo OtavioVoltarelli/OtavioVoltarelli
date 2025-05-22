@@ -6,7 +6,6 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otavio.voltarelli@hotmail.com)
 
 
-- 🎥 I share my journey in the programming field on my [YouTube Channel](https://www.youtube.com/@OdvDev)
 - 🎓 Graduated in systems analysis and development
 - 📚 Always looking for evolution
 
